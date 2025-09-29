@@ -36,4 +36,11 @@ This was my final BASE schematic.
 <img width="1133" height="818" alt="image" src="https://github.com/user-attachments/assets/2c0057c4-3787-401c-95b4-5880e9a3abba" />
 <br></br>
 I am hoping to add a slide, potentiometer later on and customize it to my liking.
+# September 29th (5PM - 7PM)
+
+After some reasearch, I figured out that I needed more ADC pins, so I looked into another breakout board and came across the ADS1015, I then implemented it, and found a footprint online that I could use.
+After that, I made a simple linear slide potentiometer footprint, and found a 7.5mm one on Adafruit, I then connected it to the ADS breakout board. 
+
+<img width="754" height="875" alt="image" src="https://github.com/user-attachments/assets/9a88d5a9-9901-46d5-b0f3-113b3084c4d0" />
+
 
