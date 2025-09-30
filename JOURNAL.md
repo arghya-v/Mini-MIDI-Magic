@@ -43,4 +43,10 @@ After that, I made a simple linear slide potentiometer footprint, and found a 7.
 
 <img width="754" height="875" alt="image" src="https://github.com/user-attachments/assets/9a88d5a9-9901-46d5-b0f3-113b3084c4d0" />
 
+# September 30th (5PM - 6PM)
+
+I made the footprint of the I2S DAC module, I efficiently used the .brd file, imported it into kicad, then copied the footprint over. 
+
+<img width="734" height="475" alt="image" src="https://github.com/user-attachments/assets/4adc928a-a1ee-458f-a26c-1400ed8d4895" />
+<br></br>
 
