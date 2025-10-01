@@ -50,3 +50,11 @@ I made the footprint of the I2S DAC module, I efficiently used the .brd file, im
 <img width="734" height="475" alt="image" src="https://github.com/user-attachments/assets/4adc928a-a1ee-458f-a26c-1400ed8d4895" />
 <br></br>
 
+# October 1st (5PM - 6:30)
+
+I had to refine my schematics and footprints for my I2S DAC, so I updated them and cross checked the correct pins
+
+<img width="657" height="664" alt="image" src="https://github.com/user-attachments/assets/1d6ca7ce-cff3-428a-b2bb-4b771b159e23" />
+<br></br>
+
+
