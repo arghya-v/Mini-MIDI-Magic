@@ -57,4 +57,9 @@ I had to refine my schematics and footprints for my I2S DAC, so I updated them a
 <img width="657" height="664" alt="image" src="https://github.com/user-attachments/assets/1d6ca7ce-cff3-428a-b2bb-4b771b159e23" />
 <br></br>
 
+# 6:30PM - 8:20 PM
+
+I finally converted to a PCB and arranged my parts
+<img width="1069" height="553" alt="image" src="https://github.com/user-attachments/assets/e797a425-755e-4c07-a439-444a6843b6e1" />
+
 
