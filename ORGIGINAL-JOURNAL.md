@@ -72,8 +72,12 @@ I also decided to work on my chassis after, to keep it simple, I just used Tinke
 <img width="1028" height="791" alt="image" src="https://github.com/user-attachments/assets/fa09b2f9-0256-4f5e-8bd8-2820617a4b26" />
 <br></br>
 
+# October 3rd, 5PM-7:50PM
 
+I continued to work on some CAD for the chassis, I added internal supports, some keyswitches for refererence, and some barriers on the side.
+<img width="1359" height="914" alt="image" src="https://github.com/user-attachments/assets/ba07f51c-4c33-47be-8c56-51746dc6d8fa" />
+<br></br>
 
+<img width="610" height="607" alt="image" src="https://github.com/user-attachments/assets/4f479bba-e3f0-4df3-8f52-244de3f9ab1d" />
+<br></br>
 
-I finally converted to a PCB and arranged my parts
-<img width="1069" height="553" alt="image" src="https://github.com/user-attachments/assets/e797a425-755e-4c07-a439-444a6843b6e1" />
