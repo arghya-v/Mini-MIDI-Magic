@@ -94,3 +94,8 @@ I finished my overall chassis! Ensured that m3 screws will work, and checked cle
 <img width="1314" height="820" alt="image" src="https://github.com/user-attachments/assets/77c7ed55-57a3-4da5-9bd4-a5644581b0a5" />
 <br></br>
 
+# 4:30PM to 4:45PM
+Realized I forgot to make a gap for the potentiometer lol, so I just added it
+<img width="1187" height="905" alt="image" src="https://github.com/user-attachments/assets/287e10c4-07c5-461a-a96a-355ca27f6030" />
+<br></br>
+
