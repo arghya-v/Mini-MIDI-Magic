@@ -87,3 +87,10 @@ I worked on the top plate, kept it at a height of 1.5mm since thats the standard
 
 <img width="1350" height="864" alt="image" src="https://github.com/user-attachments/assets/5b605f69-3bd0-4d84-8007-1261eebe4b0f" />
 <br></br>
+
+# October 4th, 3PM - 4:30PM
+
+I finished my overall chassis! Ensured that m3 screws will work, and checked clearances for the components, made the USB hole for the Pico as well. Separated the top and bottom for printing ease 
+<img width="1314" height="820" alt="image" src="https://github.com/user-attachments/assets/77c7ed55-57a3-4da5-9bd4-a5644581b0a5" />
+<br></br>
+
