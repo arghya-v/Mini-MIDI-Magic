@@ -81,3 +81,9 @@ I continued to work on some CAD for the chassis, I added internal supports, some
 <img width="610" height="607" alt="image" src="https://github.com/user-attachments/assets/4f479bba-e3f0-4df3-8f52-244de3f9ab1d" />
 <br></br>
 
+# October 4th, 12 noon - 2PM
+
+I worked on the top plate, kept it at a height of 1.5mm since thats the standard for keyboards, also made holes for the jumpers and encoders
+
+<img width="1350" height="864" alt="image" src="https://github.com/user-attachments/assets/5b605f69-3bd0-4d84-8007-1261eebe4b0f" />
+<br></br>
