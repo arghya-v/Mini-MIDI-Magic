@@ -16,7 +16,7 @@ I am working on mini midi magic, so now I am migrating my project to blueprint!
 
 Check out the main page here!
 
-https://github.com/arghya-v/Mini-MIDI-Magic/edit/main/JOURNAL.md
+https://github.com/arghya-v/Mini-MIDI-Magic/edit/main/ORIGINAL-JOURNAL.md
 
 ![Screenshot 2025-10-03 123854.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYxLCJwdXIiOiJibG9iX2lkIn19--eddafa64bfda4731b95c5a81adf2f123317475f3/Screenshot%202025-10-03%20123854.png)
 
