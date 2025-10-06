@@ -97,3 +97,13 @@ I also decided to work on my chassis after, to keep it simple, I just used Tinke
 
   
 
+## 10/6/2025 2:34 PM - Continuing to CAD (October 3rd)  
+
+I continued to work on some CAD for the chassis, I added internal supports, some keyswitches for reference, and some barriers on the side. I found it easier to CAD with setting my PCB as a hole component so it is transparent, then see through the PCB and place stuff. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzU1LCJwdXIiOiJibG9iX2lkIn19--ae1a6c738cf180b7cbd4486d80cf56d0bda62b51/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzU2LCJwdXIiOiJibG9iX2lkIn19--67546cdd910b3e7329401fb13814d7af7453a567/image.png)
+
+  
+
