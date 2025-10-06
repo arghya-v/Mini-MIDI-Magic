@@ -78,3 +78,10 @@ I had to refine my schematics and footprints for my I2S DAC, so I updated them a
 I removed a lot of the extra pins, and adjusted everything accordingly, the footprint is not perfect, but it covers everything that needs to be used for this project
   
 
+## 10/6/2025 2:27 PM - Converting to PCB  
+
+I finally converted to a PCB and arranged my parts. I decided to layout my PCB like a midi board, with 8 "pads" on the top, the potentiometer on the side, and piano-like keys near the bottom, with the black keys centered above the white keys. I also added a margin for the screen and arranged my jumpers and powerswitch too. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzUxLCJwdXIiOiJibG9iX2lkIn19--4528c85df56676b4978b15b610c6c97d17eee9a4/image.png)
+  
+
