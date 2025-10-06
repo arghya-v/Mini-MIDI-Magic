@@ -39,3 +39,11 @@ After I made my rows, I started to work and learn about rotary encoders, initial
 
   
 
+## 10/6/2025 2:15 PM - LCD Screen (September 27th)  
+
+I then proceeded to add on the SD card and LCD screen, I decided to stick with the guide here, because I am new. The LCD was pretty easy to add, but I had to ask some questions regarding the SD card because there wasn't a full screenshot for it. In the end I got it working though.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQ2LCJwdXIiOiJibG9iX2lkIn19--d7380c106eb0358a8f83adca9a4d8ad67fe8af6d/image.png)
+
+  
+
