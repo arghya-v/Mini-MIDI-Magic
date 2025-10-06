@@ -61,3 +61,11 @@ After some reasearch, I figured out that I needed more ADC pins, so I looked int
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQ4LCJwdXIiOiJibG9iX2lkIn19--874a70ba480477545a779fa21797bcab5c18b152/image.png)
   
 
+## 10/6/2025 2:19 PM - I2S Footprint (September 30th)  
+
+I made the footprint of the I2S DAC module, I efficiently used the .brd file, imported it into kicad, then copied the footprint over.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQ5LCJwdXIiOiJibG9iX2lkIn19--b9eaf1ec7083fd51f2713b45e04099055a970e30/image.png)
+
+Later on, I realized that there were a bunch of unnecessary copper pads, so I worked on removing those, and just having the pins  
+
