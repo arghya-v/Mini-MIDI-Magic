@@ -16,9 +16,16 @@ I am working on mini midi magic, so now I am migrating my project to blueprint!
 
 Check out the main page here!
 
-https://github.com/arghya-v/Mini-MIDI-Magic/edit/main/ORIGINAL-JOURNAL.md
+https://github.com/arghya-v/Mini-MIDI-Magic/edit/main/JOURNAL.md
 
 ![Screenshot 2025-10-03 123854.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYxLCJwdXIiOiJibG9iX2lkIn19--eddafa64bfda4731b95c5a81adf2f123317475f3/Screenshot%202025-10-03%20123854.png)
 
 So far, I have worked on my schematic, and I am hoping to source my parts from Adafruit  
+
+## 10/6/2025 - Starting (September 24th)  
+
+I started by looking at the mini MIDI magic guide. Alognside that I also installed KiCad and started to learn how it works. I also learned about the switch matrix system, and decided to implement that in my project. Initially, I was confused about the switch matrix and what it meant, but I figured it out and got started by making 4 rows like this
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQzLCJwdXIiOiJibG9iX2lkIn19--dd3bbea836475effa1465b6bc27623673b2aa7cb/image.png)
+  
 
