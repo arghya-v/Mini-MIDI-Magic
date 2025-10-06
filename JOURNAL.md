@@ -85,3 +85,10 @@ I finally converted to a PCB and arranged my parts. I decided to layout my PCB l
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzUxLCJwdXIiOiJibG9iX2lkIn19--4528c85df56676b4978b15b610c6c97d17eee9a4/image.png)
   
 
+## 10/6/2025 2:30 PM - Routing the PCB (October 2nd)  
+
+I routed my PCB using an autorouter to keep the layout simple and efficient. I focused on achieving clean paths, minimizing trace crossings, and maintaining a logical component arrangement to ensure reliability and make future debugging or improvements easier.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzUyLCJwdXIiOiJibG9iX2lkIn19--c30941888f9ddda0d55ccbfef166b2b455261778/image.png)
+  
+
