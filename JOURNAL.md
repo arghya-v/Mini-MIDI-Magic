@@ -107,3 +107,19 @@ I continued to work on some CAD for the chassis, I added internal supports, some
 
   
 
+## 10/6/2025 2:35 PM - Finishing Cadding (October 4th)  
+
+I worked on the top plate, kept it at a height of 1.5mm since thats the standard for keyboards, also made holes for the jumpers and encoders
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzU3LCJwdXIiOiJibG9iX2lkIn19--ce5d5596e890528f69b0ce78a82d54da238d5c45/image.png)
+
+Later on, I finished my overall chassis! Ensured that m3 screws will work, and checked clearances for the components, made the USB hole for the Pico as well. Separated the top and bottom for printing ease
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzU4LCJwdXIiOiJibG9iX2lkIn19--1b28e63f9e6c55a76e770efc7c41c796bc42c1db/image.png)
+
+But then I forgot to make a gap for the potentiometer lol, so I just added it
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzU5LCJwdXIiOiJibG9iX2lkIn19--0ee279e3e5ee884f379ca0c8de895ab84e6f2030/image.png)
+
+  
+
