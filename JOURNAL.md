@@ -47,3 +47,10 @@ I then proceeded to add on the SD card and LCD screen, I decided to stick with t
 
   
 
+## 10/6/2025 2:17 PM - Finalizing Schematic (September 29th)  
+
+To finish off, I got my work checked over, fixed an issue with the switches, and then did some organizing. This was my final BASE schematic. I also further organized my my schematic by adding rectangles and text to each component, also crosschecking everything along the way.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQ3LCJwdXIiOiJibG9iX2lkIn19--a7a4127fd970134f9fddd56b402e5230cc6460a3/image.png)
+
+I am hoping to add a slide, potentiometer later on and customize it to my liking.  
+
