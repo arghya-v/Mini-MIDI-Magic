@@ -69,3 +69,12 @@ I made the footprint of the I2S DAC module, I efficiently used the .brd file, im
 
 Later on, I realized that there were a bunch of unnecessary copper pads, so I worked on removing those, and just having the pins  
 
+## 10/6/2025 2:23 PM - Refining I2S Schematic  
+
+I had to refine my schematics and footprints for my I2S DAC, so I updated them and cross checked the correct pins
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzUwLCJwdXIiOiJibG9iX2lkIn19--28fb23144adf0300092852ec86b2ae11012a7bc4/image.png)
+
+I removed a lot of the extra pins, and adjusted everything accordingly, the footprint is not perfect, but it covers everything that needs to be used for this project
+  
+
