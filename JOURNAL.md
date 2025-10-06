@@ -85,3 +85,15 @@ I finally converted to a PCB and arranged my parts. I decided to layout my PCB l
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzUxLCJwdXIiOiJibG9iX2lkIn19--4528c85df56676b4978b15b610c6c97d17eee9a4/image.png)
   
 
+## 10/6/2025 2:31 PM - Cadding and PCB  
+
+I routed my PCB using an autorouter to keep the layout simple and efficient. I focused on achieving clean signal paths, minimizing trace crossings, and maintaining a logical component arrangement to ensure reliability and make future debugging or improvements easier.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzUzLCJwdXIiOiJibG9iX2lkIn19--eed713fae1774a06c852eb8526b5309cefbe6257/image.png)
+
+I also decided to work on my chassis after, to keep it simple, I just used TinkerCad. I added my PCB as a .stl file and started working on the base
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzU0LCJwdXIiOiJibG9iX2lkIn19--3f122a023f9f96ab39bf4ae86f73329198d0c915/image.png)
+
+  
+
