@@ -22,10 +22,20 @@ https://github.com/arghya-v/Mini-MIDI-Magic/edit/main/JOURNAL.md
 
 So far, I have worked on my schematic, and I am hoping to source my parts from Adafruit  
 
-## 10/6/2025 - Starting (September 24th)  
+## 10/6/2025 2:05 PM - Starting (September 24th)  
 
 I started by looking at the mini MIDI magic guide. Alognside that I also installed KiCad and started to learn how it works. I also learned about the switch matrix system, and decided to implement that in my project. Initially, I was confused about the switch matrix and what it meant, but I figured it out and got started by making 4 rows like this
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQzLCJwdXIiOiJibG9iX2lkIn19--dd3bbea836475effa1465b6bc27623673b2aa7cb/image.png)
+  
+
+## 10/6/2025 2:06 PM - Rotary Encoders (September 26th)  
+
+After I made my rows, I started to work and learn about rotary encoders, initially, I had made a 6x6 matrix, but I realized that I only need a 4x5 matrix, and I leave the other 2 rows for my rotary encoders. It took me a while to figure it out, because I was new to making schematics, but I luckily got some help on the slack, and then made a schematic like so:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQ0LCJwdXIiOiJibG9iX2lkIn19--5f13417a9e99904b4cb25ce590cf2de7d76288c2/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQ1LCJwdXIiOiJibG9iX2lkIn19--f0872f334da4acdfae2f1fb2d7c704b99c4ff46c/image.png)
+
   
 
