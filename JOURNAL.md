@@ -54,3 +54,10 @@ To finish off, I got my work checked over, fixed an issue with the switches, and
 
 I am hoping to add a slide, potentiometer later on and customize it to my liking.  
 
+## 10/6/2025 2:18 PM - Potentiometer (September 29th)  
+
+After some reasearch, I figured out that I needed more ADC pins, so I looked into another breakout board and came across the ADS1015, I then implemented it, and found a footprint online that I could use. After that, I made a simple linear slide potentiometer footprint, and found a 7.5mm one on Adafruit, I then connected it to the ADS breakout board.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQ4LCJwdXIiOiJibG9iX2lkIn19--874a70ba480477545a779fa21797bcab5c18b152/image.png)
+  
+
